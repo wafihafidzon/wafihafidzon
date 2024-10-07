@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Nurwafi Hafidzon</h1>
-<h3 align="center">A passionate backend developer from Malang, Indonesia</h3>
+<h1 align="center">Hi 👋, I'm wafi Hafidzon</h1>
+<h3 align="center">A passionate fullstack developer from Malang, Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel, Tailwind, React JS**
+- 🌱 I’m currently learning **Laravel, ASP.NET. Docker, Kubernetes**
 
-- 💬 Ask me about **HTML, CSS, PHP, JS**
+- 💬 Ask me about **HTML, CSS, C#, PHP, JS**
 
 - 📫 How to reach me **wafihafidzon@gmail.com**
 
